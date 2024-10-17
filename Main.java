@@ -1,3 +1,5 @@
+// Este codigo pertenece a la primera practica del Sprin 3.
+
 import java.text.DecimalFormat;
 import java.util.Scanner;
 public class Main {
